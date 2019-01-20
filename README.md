@@ -11,4 +11,6 @@ Main function is divided in two parts:
 
 To win the game, all the spaces without bombs around them need to revealed (the option of delimit where there's a bomb isn't available. The interesting thing about it is that, after introducing the game for many friends, I noticed they actually don't like using this recourse).
 
+For those who do not have python installed, I put an executable file, so we all can get fun.
+
 I'd like to thank Mestre Chunin for all the help and support.
