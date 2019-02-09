@@ -1,6 +1,6 @@
 # Minesweeper
 
-The project's goal was to create the game Minesweeper, but in a very simple way, without caring about the interface and assuming that the user is great, so I could purely focus on the logic.
+The project's goal was to recreate the game Minesweeper, but in a very simple way, without caring about the interface and assuming that the user is great, so I could purely focus on the logic.
 
 Main function is divided in two parts:
   - **Creating the field:**
